@@ -4,6 +4,8 @@
 📝 I'm studying in RSU, first year.
 
 💬 I’m looking for help with @gifhub
+
+⚡ I want to look for new experiences in these kinds of knowledge.
 <!--
 **notzct/notzct** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
